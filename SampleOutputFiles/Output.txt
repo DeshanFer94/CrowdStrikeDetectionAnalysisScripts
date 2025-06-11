@@ -1,1 +1,54 @@
+====Occurrence of Tactics Defense====
+AI Powered IOA: 3
+Credential Access: 10
+Defense Evasion: 9
+Execution: 10
+Machine Learning: 17
+Malware: 8
+Persistence: 1
+Post-Exploit: 1
+Privilege Escalation: 1
 
+====Occurrence of Techniques====
+Bypass User Account Control: 1
+Cloud-based ML: 8
+Command and Scripting Interpreter: 4
+Malicious File: 5
+Malicious Tool Execution: 1
+Masquerading: 1
+OS Credential Dumping: 10
+PUP: 6
+PowerShell: 6
+Process Injection: 8
+Registry Run Keys / Startup Folder: 1
+Sensor-based ML: 9
+
+====Host Detection Counts====
+XX-YY: 16
+XX-YY: 14
+XX-YY: 29
+XX-YY: 1
+
+====Process Occurrence====
+7z.exe: 2
+WinRAR.exe: 11
+chrome.exe: 1
+cmd.exe: 1
+ipscan-3.9.1-setup.exe: 2
+jasee64.exe: 13
+mim.exe: 4
+msedge.exe: 4
+payload.exe: 1
+powershell.exe: 14
+procdump64.exe: 4
+services.exe: 1
+test.exe: 2
+
+Number of IOC Extracted IOC: 36
+====Occurrence of OS Versions====
+Windows 10: 17
+Windows 11: 43
+
+====Percentage of OS Versions====
+Windows 10: 28.3%
+Windows 11: 71.7%
